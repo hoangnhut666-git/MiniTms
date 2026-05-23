@@ -61,7 +61,15 @@ public class ApplicationDbContext(
             switch (entry.State)
             {
                 case EntityState.Added:
-                    auditable.MarkAsCreated(userName);
+                    if (string.IsNullOrEmpty(auditable.CreatedBy))
+                    {
+                        auditable.MarkAsCreated(userName);
+                    }
+                    else if (auditable.CreatedAt == default)
+                    {
+                        auditable.MarkAsCreated(auditable.CreatedBy);
+                    }
+
                     break;
 
                 case EntityState.Modified:
