@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+D:\DevZone\MiniTmsZone\MiniTms\MiniTms.Client\wwwroot\appsettings.Development.json
+D:\DevZone\MiniTmsZone\MiniTms\MiniTms.Client\wwwroot\appsettings.json

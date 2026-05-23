@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DevZone\\MiniTmsZone\\MiniTms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9580F1E9-F644-EEF9-0ED6-74BB13ACF25D}|MiniTms\\MiniTms.csproj|d:\\devzone\\minitmszone\\minitms\\minitms\\minitms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9580F1E9-F644-EEF9-0ED6-74BB13ACF25D}|MiniTms\\MiniTms.csproj|solutionrelative:minitms\\minitms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24D0C6-C86A-E8C3-593D-6EA39668F459}|MiniTms.Client\\MiniTms.Client.csproj|d:\\devzone\\minitmszone\\minitms\\minitms.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24D0C6-C86A-E8C3-593D-6EA39668F459}|MiniTms.Client\\MiniTms.Client.csproj|solutionrelative:minitms.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24D0C6-C86A-E8C3-593D-6EA39668F459}|MiniTms.Client\\MiniTms.Client.csproj|d:\\devzone\\minitmszone\\minitms\\minitms.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA24D0C6-C86A-E8C3-593D-6EA39668F459}|MiniTms.Client\\MiniTms.Client.csproj|solutionrelative:minitms.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9580F1E9-F644-EEF9-0ED6-74BB13ACF25D}|MiniTms\\MiniTms.csproj|d:\\devzone\\minitmszone\\minitms\\minitms\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9580F1E9-F644-EEF9-0ED6-74BB13ACF25D}|MiniTms\\MiniTms.csproj|solutionrelative:minitms\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 302,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiniTms",
+              "DocumentMoniker": "D:\\DevZone\\MiniTmsZone\\MiniTms\\MiniTms\\MiniTms.csproj",
+              "RelativeDocumentMoniker": "MiniTms\\MiniTms.csproj",
+              "ToolTip": "D:\\DevZone\\MiniTmsZone\\MiniTms\\MiniTms\\MiniTms.csproj",
+              "RelativeToolTip": "MiniTms\\MiniTms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-23T08:15:23.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevZone\\MiniTmsZone\\MiniTms\\MiniTms.Client\\Program.cs",
+              "RelativeDocumentMoniker": "MiniTms.Client\\Program.cs",
+              "ToolTip": "D:\\DevZone\\MiniTmsZone\\MiniTms\\MiniTms.Client\\Program.cs",
+              "RelativeToolTip": "MiniTms.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T07:40:43.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auth.razor",
+              "DocumentMoniker": "D:\\DevZone\\MiniTmsZone\\MiniTms\\MiniTms.Client\\Pages\\Auth.razor",
+              "RelativeDocumentMoniker": "MiniTms.Client\\Pages\\Auth.razor",
+              "ToolTip": "D:\\DevZone\\MiniTmsZone\\MiniTms\\MiniTms.Client\\Pages\\Auth.razor",
+              "RelativeToolTip": "MiniTms.Client\\Pages\\Auth.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T07:40:39.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\DevZone\\MiniTmsZone\\MiniTms\\MiniTms\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "MiniTms\\Data\\ApplicationUser.cs",
+              "ToolTip": "D:\\DevZone\\MiniTmsZone\\MiniTms\\MiniTms\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "MiniTms\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T07:40:26.659Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
