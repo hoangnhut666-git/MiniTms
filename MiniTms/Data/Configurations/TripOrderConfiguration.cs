@@ -24,5 +24,7 @@ public class TripOrderConfiguration : IEntityTypeConfiguration<TripOrder>
             .WithOne(e => e.TripOrder)
             .HasForeignKey<TripOrder>(e => e.OrderId)
             .OnDelete(DeleteBehavior.Restrict);
+
+        builder.Navigation(e => e.Order).IsRequired(false);
     }
 }

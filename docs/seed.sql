@@ -8,6 +8,9 @@
 --   2. Chạy file này — schema + dữ liệu mẫu sẽ được tạo
 --   3. Có thể chạy lại nhiều lần — script tự DROP rồi tạo lại
 --
+-- Lưu ý: Dự án dùng EF Core migrations + HasData (Data/Seed/TmsDataSeeder.cs)
+-- là nguồn schema/seed chính. File SQL này giữ để tham chiếu / reset thủ công.
+--
 -- ============================================================
 
 USE MiniTms;

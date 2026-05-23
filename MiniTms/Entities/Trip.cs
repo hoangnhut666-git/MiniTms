@@ -13,6 +13,6 @@ public class Trip
     public string Strategy { get; set; } = string.Empty;
     public DateTime CreatedAt { get; set; }
 
-    public Vehicle Vehicle { get; set; } = null!;
+    public Vehicle? Vehicle { get; set; }
     public ICollection<TripOrder> TripOrders { get; set; } = [];
 }

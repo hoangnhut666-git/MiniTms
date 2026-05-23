@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using MiniTms.Shared.Helpers;
+﻿using MiniTms.Shared.Helpers;
 
 namespace MiniTms.Entities
 {
     public abstract class AuditEntity : IAuditableEntity, ISoftDeletable
     {
-        public DateTime CreatedAt { get; set; } = DateTimeHelper.GetVietnamTime();
+        public DateTime CreatedAt { get; set; }
         public string CreatedBy { get; set; } = string.Empty;
         public DateTime? UpdatedAt { get; set; }
         public string? UpdatedBy { get; set; }

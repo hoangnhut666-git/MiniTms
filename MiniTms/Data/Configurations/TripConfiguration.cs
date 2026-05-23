@@ -20,5 +20,8 @@ public class TripConfiguration : IEntityTypeConfiguration<Trip>
             .HasDefaultValueSql("SYSUTCDATETIME()");
 
         builder.HasIndex(e => e.PlanCode);
+
+        // FK required; navigation optional so soft-deleted vehicles do not break trip queries.
+        builder.Navigation(e => e.Vehicle).IsRequired(false);
     }
 }

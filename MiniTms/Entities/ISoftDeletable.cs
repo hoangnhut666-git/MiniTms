@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace MiniTms.Entities
+﻿namespace MiniTms.Entities
 {
     public interface ISoftDeletable
     {

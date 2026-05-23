@@ -9,5 +9,5 @@ public class TripOrder
     public TimeOnly EtaTime { get; set; }
 
     public Trip Trip { get; set; } = null!;
-    public Order Order { get; set; } = null!;
+    public Order? Order { get; set; }
 }
